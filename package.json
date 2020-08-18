@@ -1,0 +1,10 @@
+{
+  "name": "@saggitarius/string-encoding",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.4.0",
+    "typescript": "^3.9.6"
+  }
+}
